@@ -32,7 +32,173 @@ class PhoenixActors:
             # Skip an actor completely; this could be used to filter out male actors if desired
             if newActor == 'Bad Name':
                 skip = True
-            elif newActor == 'Test Model Name':
+            if newActor == 'Aaron Wilcoxxx':
+                skip = True
+            if newActor == 'Adrian Dimas':
+                skip = True
+            if newActor == 'Alan Fox':
+                skip = True
+            if newActor == 'Alex Jones':
+                skip = True
+            if newActor == 'Alex Mack':
+                skip = True
+            if newActor == 'Alberto Blanco':
+                skip = True
+            if newActor == 'Andy Stone':
+                skip = True
+            if newActor == 'Angelo Godshack':
+                skip = True
+            if newActor == 'Antonio Aguilera':
+                skip = True
+            if newActor == 'Antonio Black':
+                skip = True
+            if newActor == 'Bambino':
+                skip = True
+            if newActor == 'Bobby Beefcakes':
+                skip = True
+            if newActor == 'Brad Knight':
+                skip = True
+            if newActor == 'Brad Newman':
+                skip = True
+            if newActor == 'Brad Sterling':
+                skip = True
+            if newActor == 'Buddy Hollywood':
+                skip = True
+            if newActor == 'Chad White':
+                skip = True
+            if newActor == 'Charles Dera':
+                skip = True
+            if newActor == 'Chris Diamond':
+                skip = True
+            if newActor == 'Codey Steele':
+                skip = True
+            if newActor == 'David Lee':
+                skip = True
+            if newActor == 'Damon Dice':
+                skip = True
+            if newActor == 'Danny Mountain':
+                skip = True
+            if newActor == 'Derrick Pierce':
+                skip = True
+            if newActor == 'Don Diego':
+                skip = True
+            if newActor == 'Dylan Snow':
+                skip = True
+            if newActor == 'Erik Everhard':
+                skip = True
+            if newActor == 'George Lee':
+                skip = True
+            if newActor == 'Isiah Maxwell':
+                skip = True
+            if newActor == 'J Rose':
+                skip = True
+            if newActor == 'Jason X':
+                skip = True
+            if newActor == 'Jay Romero':
+                skip = True
+            if newActor == 'Jay Smooth':
+                skip = True
+            if newActor == 'Joel Tomas':
+                skip = True
+            if newActor == 'Joey White':
+                skip = True
+            if newActor == 'Johnny Castle':
+                skip = True
+            if newActor == 'Jon Jon':
+                skip = True
+            if newActor == 'Jorge Navarro':
+                skip = True
+            if newActor == 'Juan Lucho':
+                skip = True
+            if newActor == 'Justin Hunt':
+                skip = True
+            if newActor == 'Justin Kayce':
+                skip = True
+            if newActor == 'Kevin White':
+                skip = True
+            if newActor == 'Kyle Mason':
+                skip = True
+            if newActor == 'Logan Pierce':
+                skip = True
+            if newActor == 'Luke Bastion':
+                skip = True
+            if newActor == 'Luke Hotrod':
+                skip = True
+            if newActor == 'Manu Falcon':
+                skip = True
+            if newActor == 'Manuel Ferrara':
+                skip = True
+            if newActor == 'Marco Banderas':
+                skip = True
+            if newActor == 'Marco Ducati':
+                skip = True
+            if newActor == 'Marcus London':
+                skip = True
+            if newActor == 'Marius':
+                skip = True
+            if newActor == 'Martin':
+                skip = True
+            if newActor == 'Max Born':
+                skip = True
+            if newActor == 'Michael Fly':
+                skip = True
+            if newActor == 'Michael Vegas':
+                skip = True
+            if newActor == 'Miguel Zayas':
+                skip = True
+            if newActor == 'Mike Mancini':
+                skip = True
+            if newActor == 'Moe "The Monster" Johnson':
+                skip = True
+            if newActor == 'Nick Ross':
+                skip = True
+            if newActor == 'Nikolas':
+                skip = True
+            if newActor == 'Preston Parker':
+                skip = True
+            if newActor == 'Potro De Bilbao':
+                skip = True
+            if newActor == 'Prince Yahshua':
+                skip = True
+            if newActor == 'Quinton James':
+                skip = True
+            if newActor == 'Richie Black':
+                skip = True
+            if newActor == 'Ricky Johnson':
+                skip = True
+            if newActor == 'Rion King':
+                skip = True
+            if newActor == 'Ryan Driller':
+                skip = True
+            if newActor == 'Ryan Mclane':
+                skip = True
+            if newActor == 'Ryan Ryder':
+                skip = True
+            if newActor == 'Sam Shock':
+                skip = True
+            if newActor == 'Seth Gamble':
+                skip = True
+            if newActor == 'Shreddz':
+                skip = True
+            if newActor == 'Stanley Johnson':
+                skip = True
+            if newActor == 'Steve Q':
+                skip = True
+            if newActor == 'T. Stone':
+                skip = True
+            if newActor == 'Tarzan':
+                skip = True
+            if newActor == 'Tommy Gunn':
+                skip = True
+            if newActor == 'Tony De Sergio' or newActor == 'Tony Desergio':
+                skip = True
+            if newActor == 'Tyler Nixon':
+                skip = True
+            if newActor == 'Van Wilde':
+                skip = True
+            if newActor == 'Van Wylde':
+                skip = True
+            if newActor == 'Xander Corvus':
                 skip = True
 
             if not skip:
