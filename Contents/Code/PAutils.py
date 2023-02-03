@@ -227,8 +227,8 @@ def getFromGoogleSearch(searchText, site='', **kwargs):
 
     try:
         googleResults = list(googlesearch.search(searchTerm, stop=stop, lang=lang, user_agent=getUserAgent(True)))
-    except:
-        Log('Google Search Error')
+    except Exception as e:
+        Log('Google Search Error: %s with args: $s: %s' % (e.message, e.args))
         pass
 
     return googleResults

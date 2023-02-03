@@ -5730,7 +5730,7 @@ ActorsStudioIndexes = {
     61: ['Fantasy Massage'],
     62: ['Allure Media'],
     63: ['PornPros'],
-    64: ['JavBus', 'JAVLibrary', 'JAVDatabase'],
+    64: ['JavBus', 'JAVLibrary', 'JAVDatabase', 'Caribbeancom'],
 }
 
 
